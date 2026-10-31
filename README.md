@@ -31,9 +31,9 @@ Arquivo do projeto digital **Piano do Zero — A Tua Primeira Melodia**. Este re
 - [Capa do resumo](capas/capa-resumo-essencial-piano.png)
 - [Imagem personalizada para o checkout](capas/mockup-checkout-piano-do-zero.png)
 - [Quatro textos para os anúncios](criativos/textos-dos-anuncios.md)
-- [Visão geral das quatro imagens](criativos/finais/visao-geral-quatro-criativos.png)
+- [Visão geral das quatro imagens](criativos/finais/visao-geral-quatro-criativos.jpg)
 
-As imagens finais estão em `criativos/finais/`. Cada anúncio está em PNG quadrado de 1080 × 1080. As imagens-base feitas no Gemini e o ficheiro usado para montar as artes estão em `criativos/imagens-base-gemini/` e `criativos/montagem/`.
+As imagens finais estão em `criativos/finais/` no formato JPEG, quadradas de 1080 × 1080, para facilitar o acesso e o download. As versões PNG originais também foram usadas na preparação local. As imagens-base feitas no Gemini e o ficheiro usado para montar as artes estão em `criativos/imagens-base-gemini/` e `criativos/montagem/`.
 
 ## Página no Lovable
 
@@ -56,5 +56,5 @@ Projeto informado na conversa: [Piano do Zero no Lovable](https://lovable.dev/pr
 
 ## Privacidade e continuidade noutra conta
 
-Este repositório deve permanecer **privado**. Para outra conta do GitHub aceder, o proprietário precisa adicioná-la como colaboradora. O histórico aqui é um registo estruturado do trabalho e das decisões, não uma transcrição literal de todas as mensagens. Chaves de acesso, credenciais e o endereço completo do Google Drive não foram guardados.
+Este repositório é **público**, conforme pedido. Qualquer pessoa com o link pode ver e descarregar os materiais. O histórico aqui é um registo estruturado do trabalho e das decisões, não uma transcrição literal de todas as mensagens. Chaves de acesso, credenciais e o endereço completo do Google Drive não foram guardados.
 
