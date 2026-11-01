@@ -27,5 +27,5 @@ O utilizador informou que confirmou tudo e mencionou que o produto aguardava rev
 
 - Estratégia indicada pelo utilizador: testar **seis criativos**, cada um com um ângulo diferente para a mesma oferta/produto.
 - Público pretendido: **Advantage+**.
-- Modalidade indicada como **“ABA”**; confirmar se o utilizador quis dizer **ABO** antes de definir orçamento e estrutura dos conjuntos de anúncios.
+- Modalidade confirmada pelo utilizador: **ABO** (orçamento definido ao nível do conjunto de anúncios).
 - Ao preparar o teste, manter a oferta constante e variar os ângulos criativos; não inventar testemunhos nem resultados de clientes.
