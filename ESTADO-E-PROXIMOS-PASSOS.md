@@ -21,3 +21,11 @@
 ## Nota de estado
 
 O utilizador informou que confirmou tudo e mencionou que o produto aguardava revisão. A situação atual deve ser lida no StanderPay, pois não foi revalidada ao preparar este arquivo.
+
+
+## Plano para o teste de anúncios na Meta
+
+- Estratégia indicada pelo utilizador: testar **seis criativos**, cada um com um ângulo diferente para a mesma oferta/produto.
+- Público pretendido: **Advantage+**.
+- Modalidade indicada como **“ABA”**; confirmar se o utilizador quis dizer **ABO** antes de definir orçamento e estrutura dos conjuntos de anúncios.
+- Ao preparar o teste, manter a oferta constante e variar os ângulos criativos; não inventar testemunhos nem resultados de clientes.
